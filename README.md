@@ -52,7 +52,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sty-alt/ratme011-collab/main/github-snake.svg" alt="Contribution snake" />
+<img src="https://raw.githubusercontent.com/sty-alt/sty-alt/main/github-snake.svg" alt="Contribution snake" />
 
 </div>
 
