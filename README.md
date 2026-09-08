@@ -1,147 +1,65 @@
 <div align="center">
-  <img height="280" width="640" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="640" alt="Pixel coding banner" />
+
+# sxkadamn
+
+### Java Backend • Minecraft / Spigot • Clean infrastructure
+
+<a href="https://tlgg.ru/sxkadamn"><img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://www.youtube.com/@sxkadamn"><img src="https://img.shields.io/badge/YouTube-111827?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://vk.com/sxkadamn"><img src="https://img.shields.io/badge/VK-111827?style=for-the-badge&logo=vk&logoColor=white" alt="VK" /></a>
+
 </div>
-
-<h1 align="center">sxkadamn</h1>
-<p align="center">Java • Backend • Minecraft / Spigot</p>
-
-<p align="center">
-  <a href="https://tlgg.ru/sxkadamn"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@sxkadamn"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
-</p>
 
 ---
 
 ## Обо мне
-Я пишу Java-сервисы и игровые решения, собираю надежную инфраструктуру и люблю наглядную аналитику.  
-Здесь мои проекты, заметки и эксперименты.
 
-## Документация
-**sxkadamn’s docs** — практичные IT-руководства и заметки.  
-→ https://t.me/+XySSpeUiGI1jZDg8
+Пишу Java-сервисы и игровые решения для Minecraft-серверов. Люблю надёжную инфраструктуру, понятный код и интерфейсы, которыми приятно пользоваться.
 
----
+Сейчас фокусируюсь на плагинах для Paper / Spigot, API-интеграциях, экономике серверов и инструментах для динамических игровых миров.
 
-## Featured Projects
+## Что строю
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>DynamicWorldFusion</h3>
-      <p>
-        Инструменты и механики для динамической работы с игровыми мирами.
-      </p>
-      <p>
-        <a href="https://github.com/sxkadamn/DynamicWorldFusion">
-          <img src="https://img.shields.io/badge/Repository-Open-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-0d1117?style=flat&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Minecraft-0d1117?style=flat&logo=minecraft&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>ReCases</h3>
-      <p>
-        Плагин кейсов для Minecraft / Spigot с addon API, кастомными анимациями и подключением через JitPack.
-      </p>
-      <p>
-        <a href="https://github.com/sxkadamn/ReCases">
-          <img src="https://img.shields.io/badge/Repository-Open-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/JitPack-Ready-0d1117?style=flat&logo=jitpack&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-17-0d1117?style=flat&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spigot%20%2F%20Paper-1.20+-0d1117?style=flat&logo=minecraft&logoColor=white" />
-      </p>
-      <p>
-        <code>com.github.sxkadamn.ReCases:recases-api:1.0.1</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>ReAuction</h3>
-      <p>
-        Аукционный плагин для Minecraft / Paper с лотами, ставками, buy orders, почтой, антиабузом и статистикой через голограммы.
-      </p>
-      <p>
-        <a href="https://github.com/sxkadamn/ReAuction">
-          <img src="https://img.shields.io/badge/Repository-Open-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-21-0d1117?style=flat&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Paper-1.21.8-0d1117?style=flat&logo=minecraft&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite%20%2F%20MySQL-Ready-0d1117?style=flat&logo=sqlite&logoColor=white" />
-      </p>
-      <p>
-        <code>/ah</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>ReCasino</h3>
-      <p>
-        Плагин казино для Minecraft / Spigot с addon API, кастомными режимами, анимациями и подключением через JitPack.
-      </p>
-      <p>
-        <a href="https://github.com/sxkadamn/ReCasino">
-          <img src="https://img.shields.io/badge/Repository-Open-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/JitPack-Ready-0d1117?style=flat&logo=jitpack&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-17-0d1117?style=flat&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spigot%20%2F%20Paper-1.20.6-0d1117?style=flat&logo=minecraft&logoColor=white" />
-      </p>
-      <p>
-        <code>com.github.sxkadamn.ReCasino:recasino-api:v1.1.2</code>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## Статистика
-<p align="center">
-  <img src="https://img.shields.io/github/stars/sxkadamn/DynamicWorldFusion?style=for-the-badge&logo=github&color=0d1117" />
-  <img src="https://img.shields.io/github/forks/sxkadamn/DynamicWorldFusion?style=for-the-badge&logo=github&color=0d1117" />
-  <img src="https://img.shields.io/github/followers/sxkadamn?style=for-the-badge&logo=github&color=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sxkadamn&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
-
----
+| Проект | Описание |
+| --- | --- |
+| [DynamicWorldFusion](https://github.com/sty-alt/DynamicWorldFusion) | Инструменты и механики для динамической работы с игровыми мирами. |
+| [ReCases](https://github.com/sty-alt/ReCases) | Кейс-система для Minecraft / Spigot с addon API и кастомными анимациями. |
+| [ReAuction](https://github.com/sty-alt/ReAuction) | Аукцион с лотами, ставками, buy orders, почтой и защитой от абуза. |
+| [ReCasino](https://github.com/sty-alt/ReCasino) | Казино-плагин с режимами, анимациями и подключением через JitPack. |
 
 ## Технологии
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,maven,gradle,postgres,sqlite,git,github,linux&theme=dark" alt="Java, Maven, Gradle, PostgreSQL, SQLite, Git, GitHub, Linux" />
+
+</div>
+
+## GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sty-alt&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=f2cc60&text_color=c9d1d9" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sty-alt&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=sty-alt&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F2CC60&currStreakLabel=58A6FF" alt="GitHub streak" />
+
+</div>
+
+## Contribution snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sty-alt/ratme011-collab/main/github-snake.svg" alt="Contribution snake" />
+
+</div>
 
 ---
 
-<details>
-  <summary><b>Стек</b></summary>
-  <br/>
-  <b>Языки</b><br/>
-  <img src="https://skillicons.dev/icons?i=java,postgres,sqlite&perline=7" />
-  <br/><br/>
-  <b>Инструменты</b><br/>
-  <img src="https://skillicons.dev/icons?i=gradle,githubactions,git&perline=7" />
-  <br/><br/>
-  <b>Софт</b><br/>
-  <img src="https://skillicons.dev/icons?i=visualstudio,idea&perline=7" />
-</details>
+<div align="center">
 
----
+<sub>Built with Java, caffeine and a little bit of pixel magic.</sub>
 
-<p align="center">
-  <img width="640" src="github-snake.svg" alt="snake"/>
-</p>
+</div>
