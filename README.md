@@ -50,6 +50,9 @@ Minecraft и Java остаются важной частью моих проек
 | --- | --- |
 | [Leon Service](https://leonservice.uz) | Сайт сервисного центра в Ташкенте: ремонт компьютеров и оргтехники, выезд мастера и IT-поддержка бизнеса. |
 | [LeonCRM](https://leoncrm.uz) | CRM для сервисного центра LEON: клиенты, заявки на ремонт и основные рабочие процессы в одном месте. |
+| [Nexoda4TEAM](https://github.com/sty-alt/Nexoda4TEAM) | Командное рабочее пространство: задачи, Kanban, чат, база знаний, файлы и интеграция с GitHub. |
+| [NexodaMM](https://github.com/sty-alt/NexodaMM) | Telegram-бот онлайн-записи для бизнеса: услуги, мастера, расписание и напоминания клиентам. |
+| [ai-sales-agent](https://github.com/sty-alt/ai-sales-agent) | Telegram-бот для работы с клиентами и заявками, подготовки сообщений с Claude и просмотра статистики. |
 | [DynamicWorldFusion](https://github.com/sty-alt/DynamicWorldFusion) | Инструменты и механики для динамической работы с игровыми мирами — когда мир не просто хранится, а живёт и меняется. |
 | [ReCases](https://github.com/sty-alt/ReCases) | Кейс-система для Minecraft / Spigot с addon API, кастомными анимациями и удобной точкой расширения для сервера. |
 | [ReAuction](https://github.com/sty-alt/ReAuction) | Полноценный аукцион для Paper: лоты, ставки, buy orders, почта, статистика и защита от игровых злоупотреблений. |
