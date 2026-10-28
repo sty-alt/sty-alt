@@ -6,13 +6,25 @@
 
 ### Websites • CRM • AI development • Java / Minecraft
 
-<a href="https://tlgg.ru/sxkadamn"><img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://t.me/amespoalplugins"><img src="https://img.shields.io/badge/Telegram-111827?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="https://www.youtube.com/@sxkadamn"><img src="https://img.shields.io/badge/YouTube-111827?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="https://vk.com/sxkadamn"><img src="https://img.shields.io/badge/VK-111827?style=for-the-badge&logo=vk&logoColor=white" alt="VK" /></a>
 
 </div>
 
 ---
+
+## Открыт к работе и заказам
+
+Я Олег, full-stack разработчик из Ташкента. Ищу работу и проектные заказы, в том числе удалённо.
+
+Делаю сайты на React / Next.js, CRM и административные панели, Telegram-ботов, интеграции API и AI-функции. Берусь за доработку существующих проектов: ошибки, формы и заявки, бизнес-логику, оптимизацию и запуск.
+
+Примеры: [Leon Service](https://leonservice.uz/), [LeonCRM](https://leoncrm.uz/), [«Согласовано»](https://github.com/sty-alt/VippIProject), [бот онлайн-записи](https://github.com/sty-alt/NexodaMM), [учёт оплат с REST API](https://github.com/sty-alt/ecomdev-payments).
+
+**[Портфолио и все кейсы](https://sty-alt.github.io/) · [Обсудить работу в Telegram: @amespoalplugins](https://t.me/amespoalplugins)**
+
+Бюджет, сроки и формат обсуждаем по задаче. Использую Claude, Codex и другие AI-инструменты для разработки и проверки; за результат отвечаю сам.
 
 ## Обо мне
 
